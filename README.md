@@ -4,7 +4,7 @@ This website is a static HTML website using semantic tags and minimal CSS.
 
 ## Table of Contents
 * [Installation](#installation)
-* [Screenshots](#screenshots)
+* [Screenshot](#screenshot)
 * [Credits](#credits)
 
 ## Installation
@@ -13,7 +13,8 @@ In your terminal type:
 * Open in Visual Studio to build and run.
 For further instructions, visit https://help.github.com.
 
-## Screenshots
+## Screenshot
+![alt text](prework.png "Screenshot")
 
 ## Credits
 [UABootCamp](https://bootcamp.ce.arizona.edu/coding/)
