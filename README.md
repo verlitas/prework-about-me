@@ -11,7 +11,7 @@ This website is a static HTML website using semantic tags and minimal CSS.
 In your terminal type:
 ```git clone https://verlitas.github.io/prework-about-me/```
 * Open in Visual Studio to build and run.
-For further instructions, visit https://help.github.com.
+* For further instructions, visit https://help.github.com.
 
 ## Screenshot
 ![alt text](prework.png "Screenshot")
